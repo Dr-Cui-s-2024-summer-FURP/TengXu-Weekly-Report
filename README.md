@@ -12,7 +12,7 @@ Environment setup, revision of basic concepts of CNN
 
 CNN projects studies, installations and running attempts
 
-**<span style="font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">- [Week 3 Part Report](/week3/w3.md) </span>**
+**<span style="font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">- [Week 3 Part Report (Pre-build)](/week3/w3.md) </span>**
 
 (Tentative) Completion of project studies and preparation for data collection
 
