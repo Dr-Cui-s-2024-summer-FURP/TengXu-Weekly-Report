@@ -26,6 +26,6 @@ And would finish this part within
 
 **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">3 ~ 4 days</span>**  
 
-And would update the GitHub in 
+And after finishing, would updat the progress to GitHub in 
 
 **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">At most 2 days</span>**
