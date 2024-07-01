@@ -24,7 +24,7 @@ Working on:
 
 And would finish this part within 
 
-**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">3 ~ 4 days</span>**  
+**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">3 ~ 4 days</span>** from **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">1st Jul.</span>**
 
 And after finishing, would updat the progress to GitHub in 
 
