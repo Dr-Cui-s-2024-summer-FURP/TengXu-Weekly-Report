@@ -1,0 +1,24 @@
+PARAMETER ...
+Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='pointnet2_part_seg_msg', normal=True, num_votes=3)
+The number of test data is: 2874
+100%|█████████████████████████████████████████████████████████████████████| 120/120 [03:06<00:00,  1.55s/it]
+eval mIoU of Airplane       0.831505
+eval mIoU of Bag            0.817860
+eval mIoU of Cap            0.859960
+eval mIoU of Car            0.781691
+eval mIoU of Chair          0.907759
+eval mIoU of Earphone       0.734756
+eval mIoU of Guitar         0.909619
+eval mIoU of Knife          0.872688
+eval mIoU of Lamp           0.849568
+eval mIoU of Laptop         0.956600
+eval mIoU of Motorbike      0.729354
+eval mIoU of Mug            0.951508
+eval mIoU of Pistol         0.821468
+eval mIoU of Rocket         0.604985
+eval mIoU of Skateboard     0.763298
+eval mIoU of Table          0.831554
+Accuracy is: 0.94417
+Class avg accuracy is: 0.87217
+Class avg mIOU is: 0.82651
+Inctance avg mIOU is: 0.85585
