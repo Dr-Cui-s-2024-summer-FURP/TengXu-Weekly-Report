@@ -1,24 +1,23 @@
-PARAMETER ...
-Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='pointnet2_part_seg_msg', normal=True, num_votes=3)
-The number of test data is: 2874
-100%|█████████████████████████████████████████████████████████████████████| 120/120 [03:06<00:00,  1.55s/it]
-eval mIoU of Airplane       0.831505
-eval mIoU of Bag            0.817860
-eval mIoU of Cap            0.859960
-eval mIoU of Car            0.781691
-eval mIoU of Chair          0.907759
-eval mIoU of Earphone       0.734756
-eval mIoU of Guitar         0.909619
-eval mIoU of Knife          0.872688
-eval mIoU of Lamp           0.849568
-eval mIoU of Laptop         0.956600
-eval mIoU of Motorbike      0.729354
-eval mIoU of Mug            0.951508
-eval mIoU of Pistol         0.821468
-eval mIoU of Rocket         0.604985
-eval mIoU of Skateboard     0.763298
-eval mIoU of Table          0.831554
-Accuracy is: 0.94417
-Class avg accuracy is: 0.87217
-Class avg mIOU is: 0.82651
-Inctance avg mIOU is: 0.85585
+2024-07-03 02:22:11,834 - Model - INFO - PARAMETER ...
+2024-07-03 02:22:11,834 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='pointnet2_part_seg_msg', normal=True, num_votes=3)
+2024-07-03 02:22:11,860 - Model - INFO - The number of test data is: 2874
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Airplane       0.831505
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Bag            0.817860
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Cap            0.859960
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Car            0.781691
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Chair          0.907759
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Earphone       0.734756
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Guitar         0.909619
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Knife          0.872688
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Lamp           0.849568
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Laptop         0.956600
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Motorbike      0.729354
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Mug            0.951508
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Pistol         0.821468
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Rocket         0.604985
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Skateboard     0.763298
+2024-07-03 02:25:18,626 - Model - INFO - eval mIoU of Table          0.831554
+2024-07-03 02:25:18,627 - Model - INFO - Accuracy is: 0.94417
+2024-07-03 02:25:18,627 - Model - INFO - Class avg accuracy is: 0.87217
+2024-07-03 02:25:18,627 - Model - INFO - Class avg mIOU is: 0.82651
+2024-07-03 02:25:18,627 - Model - INFO - Inctance avg mIOU is: 0.85585
