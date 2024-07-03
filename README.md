@@ -20,11 +20,13 @@ CNN projects studies, installations and running attempts
 ### Realtime Progress
 Working on: 
      
-**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">Studying PoseCNN project and PointNet projct</span>**
+**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">Studying PoseCNN project</span>**
 
 And would finish this part within 
 
-**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">3 ~ 4 days</span> with extra delay since unexpected slow speed of project running** from **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">1st Jul.</span>**
+**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;"> About 3 days</span>**  from **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">1st Jul.</span>** 
+
+**with extra delay since unexpected slow speed of project running**
 
 And after finishing, would updat the progress to GitHub in 
 
