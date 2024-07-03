@@ -31,3 +31,7 @@ And would finish this part within
 And after finishing, would updat the progress to GitHub in 
 
 **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">At most 2 days</span>**
+
+---
+### Weekly Meeting Abscence
+I sincerely apologize for my absence from the weekly meetings. Due to the significant distance between my home and the school, and the discontinuation of overnight accommodation applications, my family is unable to support weekly commuting to Ningbo for meetings. This means that I will also be unable to attend meetings in a timely manner in the future. Despite this, the team can rest assured that I will actively update my progress and submit assignments on GitHub every week, and strive to keep up with the team's progress.
