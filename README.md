@@ -12,25 +12,33 @@ Environment setup, revision of basic concepts of CNN
 
 CNN projects studies, installations and running attempts
 
-**<span style="font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">- [Week 3 Part Report (Pre-build)](/week3/w3.md) </span>**
+**<span style="font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">- [Week 3 Part Report](/Week3/w3.md) </span>**
 
-(Tentative) Completion of project studies and preparation for data collection
+Completion of project studies and preparation for data generation
+
+**<span style="font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">- [Week 4 Part Report](/Week4/w4.md) </span>**
+
+Prebuild
+
+**<span style="font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">- [Week 5 Part Report](/Week5/w5.md) </span>**
+
+Prebuild
 
 ---
 ### Realtime Progress
 Working on: 
      
-**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">Studying PoseCNN project</span>**
+**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">Dealing with Isaac Sim and prepare for data generation</span>**
 
 And would finish this part within 
 
-**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;"> About 3 days</span>**  from **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">5th Jul.</span>** 
+**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;"> About a week</span>**  from **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">22th Jul.</span>** 
 
-**with extra delay since unexpected slow speed of project running**
+**null**
 
 And after finishing, would updat the progress to GitHub in 
 
-**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">At most 2 days</span>**
+**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">About 2 days</span>**
 
 ---
 ### Weekly Meeting Absence
