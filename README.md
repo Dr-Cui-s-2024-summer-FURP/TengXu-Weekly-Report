@@ -18,7 +18,7 @@ Completion of project studies and preparation for data generation
 
 **<span style="font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">- [Week 4 Part Report](/Week4/w4.md) </span>**
 
-Prebuild
+Completion of IS setup, the building of model and the setup of cameras recording
 
 **<span style="font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">- [Week 5 Part Report](/Week5/w5.md) </span>**
 
@@ -28,13 +28,13 @@ Prebuild
 ### Realtime Progress
 Working on: 
      
-**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">Dealing with Isaac Sim and prepare for data generation</span>**
+**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">Dealing with setup of LiDAR and camera, and prepare for data generation</span>**
 
 And would finish this part within 
 
-**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;"> About a week</span>**  from **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">22th Jul.</span>** 
+**<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;"> More than a week</span>**  from **<span style="color:blue; font-size:1.18em; border: 2px solid #ccc; padding: 10px; border-radius: 13px;">5th Aug.</span>** 
 
-**null**
+**Due to the IELTS test, the progress of the project would be a bit slower**
 
 And after finishing, would updat the progress to GitHub in 
 
